@@ -47,7 +47,6 @@ population_teller = Agent(
     model=model_gemini,
 )
 
-# Orchestrator Agent
 orchestrator = Agent(
     name="Orchestrator Agent",
     instructions="""
