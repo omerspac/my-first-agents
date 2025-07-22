@@ -1,0 +1,10 @@
+[project]
+name = "first-agents"
+version = "0.1.0"
+description = "My First 3 Agents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agents>=0.1.0",
+    "python-dotenv>=1.0.0",
+]
